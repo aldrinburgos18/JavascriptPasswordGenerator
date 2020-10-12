@@ -9,8 +9,8 @@ A random password generator that can create a strong password that provides grea
 
 ## Website
 
-#
+https://aldrinburgos18.github.io/JavascriptPasswordGenerator/
 
-## Screenshots
+## Screenshot
 
 ![Screenshot](/screenshot.png?raw=true "Password Generator")
